@@ -1,0 +1,10 @@
+{
+  "name": "npm-git-semver",
+  "version": "0.1.0",
+  "src": [
+    "main.c"
+  ],
+  "dependencies": {
+    "h2non/semver.c": "v1.0.0"
+  }
+}
